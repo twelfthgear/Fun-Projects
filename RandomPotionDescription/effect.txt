@@ -1,0 +1,100 @@
+Healing. It instantly regenerates some health when drank.
+Vigor. It gives temporary health when drank.
+Vitality. It slowly regenerates health over a period of some hours.
+Might. It gives a bonus to attack rolls after drinking.
+Courage. It gives immunity to fear and some temporary inspiration.
+Giant Strength. It gives the user much more strength.
+Flame Resistance. It gives resistance to fire damage.
+Cold Resistance. It gives resistance to cold damage.
+Necro Resistance. It gives resistance to necrotic damage.
+Radiant Resistance. It gives resistance to radiant damage.
+Stoneskin. It gives resistance to martial damage.
+Acid Resistance. It gives resistance to acid.
+Lightning Resistance. It gives resistance to lightning damage.
+Succubus Charm. It makes the drinker irresistible to nearby people.
+Shielding. It gives the user a magical shield of energy.
+Flame Breath. It gives the user fire breath for a short time.
+Growth. It makes the user double in size.
+Shrinking. It makes the user half in size.
+Comprehension. I lets the user understand all languages.
+Fertility. It makes the user very fertile, almost certain to make a baby under its effects!
+Intimidation. It gives the user a huge booming voice that terrifies those around.
+Luck. It gives the user a temporary boost to luck.
+Mana. It gives the user more magical power to cast with.
+Arcane. it gives the user more powerful spells.
+Animal form. It makes the user turn into a random animal.
+Dreams. It makes the user get lost in a hallucinatory dream world of their perfect dream.
+Nightmares. it makes the user get lost in a hallucinatory dream world of their worst nightmares.
+Stamina. It gives the user more stamina and constitution.
+Fleet foot. it makes the user have more speed.
+Knowledge. It increases the user's intelligence temporarily.
+The Bard. It increases the user's performance temporarily.
+Disguise. It changes the user's form to a disguised form of any race and appearance.
+Feast. It removes all hunger and thirst from the target.
+Youth. It makes the user grow some years younger.
+Age. It makes the user grow some years older.
+Furnace. It makes the user radiate with a damaging aura.
+Eagle Sight. It gives the user strong vision and a bonus to perception.
+Health. It cures all diseases and illnesses.
+Invulnerability. It freezes the user in stasis that makes them immune to damage but they cannot move or act.
+Riddle me gone. It gives the user the cure to a single riddle.
+Horrifying appearance. It makes the user look more ugly for a time.
+Beautiful appearance. It makes the user appear more attractive for a time.
+Swordsmanship. It makes the user more effective and versatile with a blade.
+Bowmanship. It makes the user more effective with a bow or ranged weapon.
+Nymph Breath. It gives water breathing.
+Midas. It makes the user turn things to gold.
+Berserker. It makes the user rage with great strength.
+Utter Hatred. It makes the user have bonuses against a particular type of enemy.
+Oracle. It lets the user divinate the future.
+Demonic Leech. It heals a portion of all damage the user deals.
+Fey Nature. It lets the user become one with animals and nature around them.
+Tracelessness. It makes the user very hard to follow.
+Gracefulness. It makes the user have a better acrobatics skill.
+Goblin Climb. It gives the user a bonus to climbing.
+Dead Ringer. It makes the user appear completely dead to all magic.
+One Leafed Clover. It gives the user terrible luck.
+Possession. It lets the user gain control of a nearby creature, their body comatosed while they do.
+Owls Wake. The user need no sleep for a time.
+Hawks Flight. It lets the user fly.
+Peace. It makes the user very calm and unable to harm others.
+Rejuvenation. It heals a single scar or bad injury on the user such as a missing arm.
+Sphinxes Truth. It makes the user tell the truth.
+Serpent Tongue. It makes the user only able to lie.
+Navigation. It makes the user unable to get lost and find where they need.
+Hook Horror. The users hands become sharp weaponised blades.
+Schaffensfreude. It makes the enemies take damage as they deal it to the user.
+Invisibility. It makes the user invisible.
+Wild magic. It taps into wild magic, making an absolutely random thing happen.
+Fame. It makes the user more famous.
+Goats Trek. The user becomes immune to the toils of long travels and bad weather.
+Gargoyle Toughness. It increases the user's constitution.
+Atomic Clock. It lets the user know the exact time and date.
+Transmutation. It lets the user have the ability to change somethings properties.
+Iron Skin. It turns the user's skin to metal giving them many resistances.
+Sex Change. It changes the user's gender.
+Race Change. It changes the user's race.
+Musical Breath. It makes the user say everything in song, and fey music follows them in the air.
+Utter Understanding. it makes the user know very intimately about one exact thing. Random, or they can decide.
+Split Form. The user turns into two or three tiny versions of themselves and controls them all.
+Flavour. It makes anything and everything taste amazing!
+Glimmer. It makes the user and its gear instantly clean and as good looking as possible.
+Love. It causes the user and someone else fall in love.
+Poison. Poisons the user, weakening them.
+Rebirth. It resurrects the user if they die soon after drinking.
+Elemental form. Turns the user to an elemental form relevant to their personality.
+True form. Turns the user into a familiar like creature similar to their personality.
+God's Touch. Gives the user a holy connection to their god or fiendish deity.
+Antidepressant. Does what it says on the container.
+Ghostly Form. It makes the user intangible and able to phase through objects.
+Artisan's Skill. It gives the user skill in a particular art temporarily.
+Godly form. This improves all stats.
+Bless Weapon. it makes the user's weapons do more damage.
+Euphoria. It makes the user feel amazing and trip out.
+Bodyguard. This creates a spectral bodyguard for a short time who obeys orders.
+Babelfish. This lets the user speak any language but not understand it.
+Preservation. This stops whatever its poured on from rotting or degrading.
+Fear. This makes the user terrified.
+Night vision. It gives the ability to see in the dark.
+Tracking. It lets the user track an enemy.
+Cure-all. This cures any status effects.

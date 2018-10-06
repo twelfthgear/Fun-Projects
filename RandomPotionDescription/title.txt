@@ -1,0 +1,10 @@
+a Potion
+an Elixir
+a Draught
+a Vial
+a Philter
+a Tonic
+a Brew
+an Ichor
+a Juice
+a Concoction
