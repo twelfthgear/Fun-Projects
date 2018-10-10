@@ -6,7 +6,6 @@ If you want to run this program, be sure to do the following:
     .txt files in the same folder in order for the program to run. 
 
 2.) If you do not have python, you can download it at https://bit.ly/1L2MyD2
-    
     Just click Download Python 3.7.X and install accordingly.
     
 3.) Once/if you have python installed, double 
@@ -22,7 +21,6 @@ Sources pulled from:
 			My Brain! 
 		u/dndspeak:
 			https://bit.ly/2OKBhBf
-
 	Elsewhere:
 			https://bit.ly/2PuNPtq
 
