@@ -10,7 +10,7 @@ If you want to run this program, be sure to do the following:
     Just click Download Python 3.7.X and install accordingly.
     
 3.) Once/if you have python installed, double 
-    clicking the program file to run it.
+    clicking the program file should  run it in the python shell.
 
 4.) Once you have done the previous steps, you can sit back, follow
     the prompt, and enjoy the automation.
