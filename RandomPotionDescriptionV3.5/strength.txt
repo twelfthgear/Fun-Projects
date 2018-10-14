@@ -1,0 +1,12 @@
+Seemingly permanent.
+Minor with a strong side effect.
+Minor with a slight side effect.
+Minor with no side effect.
+Regular with a slight side effect.
+Regular with a strong side effect.
+Regular with no side effect.
+Major with a strong side effect.
+Major with a slight side effect.
+Major with no side effect.
+A poison. Almost no positive effect.
+Temporary but strong and wears off quickly. The side effects begin after the potion wears off.

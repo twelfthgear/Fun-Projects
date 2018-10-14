@@ -1,0 +1,104 @@
+Nothing at all.
+Sulphur.
+Fresh air.
+Baking cookies.
+Flowers.
+Rotting meat.
+Egg.
+Rotten eggs.
+Fresh bread.
+Blood.
+Home.
+Vomit.
+Garlic.
+Fruit.
+Chocolate.
+Beer.
+Smoke.
+Wood.
+Death.
+Orc.
+Wet dog.
+Wet goblin.
+Perfume.
+Cheap perfume.
+Musk.
+Garbage.
+Sand.
+The Forest.
+Nuts.
+Acidic.
+Spicy.
+Minty.
+Of chemicals.
+Dirt.
+Cough Syrup (0-2 scale of 10)
+Cough Syrup (3-5 scale of 10)
+Cough Syrup (6-8 scale of 10)
+Cough Syrup (9-10 scale of 10)
+Strong alcohol.
+Weak alcohol.
+Sugar.
+A damp cave.
+Strange.
+Indescribable but nice.
+Indescribable but horrid.
+Rain.
+Medical.
+Bacon.
+Coffee.
+Cut grass.
+Vanilla.
+The sea.
+Roast meat.
+Festive.
+Lavender.
+Lilac and Gooseberries.
+A fresh baby.
+A new car/wagon.
+Citrus.
+Leather.
+Metal.
+A forge.
+Fresh Cake.
+Paint.
+Wine.
+Polish.
+Cheese.
+Fish.
+Compost.
+The sewers.
+Apples.
+Holy oils.
+Massage oil.
+A brothel.
+Old fruit.
+Roses.
+Something that stirs old memories.
+Gingerbread.
+Cinnamon.
+Candy.
+Fumes.
+Bark.
+Chicken.
+Beef.
+Rotted Flesh.
+Gunpowder.
+A storm.
+Success.
+Gold.
+Mayonnaise.
+Barbeque.
+Salt.
+Pepper.
+Aromatic spices.
+Fruit punch
+Water.
+Fresh water.
+Stagnant water.
+Mud.
+Oddly enough, a colour.
+Music.
+The end of the world.
+Magically, the worst thing to you.
+Magically, the most desirable thing to you.

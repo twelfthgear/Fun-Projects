@@ -1,0 +1,198 @@
+a Lost Soul. The content of the potion is in fact : a soul! If you try to drink it, you must succeed on a DC 13 charisma saving throw or your soul will be swapped for 1d10 days.
+Acid Resistance. It gives resistance to acid.
+Age. It makes the user grow some years older.
+Alchemist's Dairy. Upon consumption, the drinker will vomit various dairy products throughout the day, including milk, cheese, ice cream, and yogurt. The product is from whatever animal was used to make the potion, and is completely edible.
+Ambi-Dex-strousity. You grow 1d4 extra toe on each foot, the same for your fingers. Dex based proficiencies have a +3 bonus for the time being.
+Animal form. It makes the user turn into a random animal.
+Anti-coagulation. For 24 hours, you will bleed out after getting hit. Take half of the damage done on your first hit and subtract it for all following rounds until you are healed.
+Antidepressant. Does what it says on the container.
+Arcane. It gives the user more powerful spells.
+Artisan's Skill. It gives the user skill in a particular art temporarily.
+Astral Sight. Get Truesight for 2d12 hours, and then pass out for 1d10 hours.
+Atomic Clock. It lets the user know the exact time and date.
+Babelfish. This lets the user speak any language but not understand it.
+Bad Accent. The drinker has a Scottish accent for 1 hour, and takes 1d4 damage every time the player says something in character without attempting that accent.
+Basalisk Tears. Casts "Stone to Flesh" when used on a petrified object or person. When used on normal stone, it transmutes into a random meat.
+Beautiful appearance. It makes the user appear more attractive for a time.
+Berserker. It makes the user rage with great strength.
+Bless Weapon. It makes the user's weapons do more damage.
+Bodyguard. This creates a spectral bodyguard for a short time who obeys orders.
+Boom Boom. It contains a highly flammable fluid that can explode when intensely moved, dealing 1d4 damage per quarter of a litre around 2 meters (+1 every half a litre). Can be used to create fire or shrapnel based explosives.
+Bowmanship. It makes the user more effective with a bow or ranged weapon.
+Broca. When you talk it comes out in gibberish, but to you it sounds perfectly normal.
+Burst Skin. Your skin become flammable and coarse to the touch, but you feel no different. Stay away from fire or be prepared for things to get lit!
+Cabbage Potion. A potion that transforms it's drinker into a cabbage. Roll a 1d20, thats how many days the person stays a cabbage, on a 20 they become permanently a cabbage. Potion includes telepathy for the cabbage. Your veins seem to rise to the top of your body briefly. They leave dark purple and blue markings across your skin which will remain as tattoos.
+Catharsis Poison. Upon drinking, the drinker will sweat profusely, followed by intense vomiting, crying, urination, and diarrhea for 3d6 minutes. If the drinker survives, they lose all emotional attachment for 2d4 days.
+Clear Tongue. You feel an extraordinary fluency and efficacy in your words and are able express thoughts with great clarity for 1d6 hours.
+Coca-Cola. It’s Coca-Cola. Ignore the flavor. Describe the sugary taste and fizz, but don't use the brand name. See if the player figures it out.
+Cold Resistance. It gives resistance to cold damage.
+Comprehension. I lets the user understand all languages.
+Courage. It gives immunity to fear and some temporary inspiration.
+Cure-all. This cures any status effects.
+Dead Ringer. It makes the user appear completely dead to all magic.
+Demonic Leech. It heals a portion of all damage the user deals.
+Disguise. It changes the user's form to a disguised form of any race and appearance.
+Dog Tongue. When you speak you hear yourself normal, but everyone else ears you like a dog trying to speak.
+Down. Grow feathers that match hair color for 1d6 days.
+Dreams. It makes the user get lost in a hallucinatory dream world of their perfect dream.
+Drunk Skunk. Get drunk for 3d8 hours.
+Drunken Savant. You suffer the outward effects being intoxicated, but your intelligence score is increased by 8 or up to 20 for 1d4 hours. Once the time is up, you recover from all effects and your intelligence reverts.
+Dye Hair. Your hair turns the color of the potion you drank.
+Dyed Water. The vial contains colored water. The color changes the color of your skin for 1d8 days.
+Eagle Sight. It gives the user strong vision and a bonus to perception.
+Elemental form. Turns the user to an elemental form relevant to their personality.
+Enlightenment. You grow a third eye in your forehead granting you +2 perception.
+Equilibrium. For the next 1d4 hours, one random ability score is increased by 6 (no maximum), and one different random ability score is decreased by 6 (no minimum).
+Euphoria. It makes the user feel amazing and trip out.
+Extra Terrestrial Power. The index finger on your dominant hand start to glow shed bright light in a 20-foot radius and dim light for an additional 20 feet for the next 1d8 hours.
+Extreme Memory Removal. You forget everything that's happened over the last 2 days.
+Extreme Rhythm. The drinker must dance to a beat they hear in their head until they fall unconscious. They do not know that they must fall unconscious, and will resist all attempts to make them do so.
+Fadeaway. Your body slowly starts to become transparent, and you eventually become completely invisible. Lasts until you get hit.
+Fairy Godmother’s Lament. You get a single wish spell. It lasts until a wish is spoken.
+Fake Vomit. You make a CR 10 WIS or INV check. On a fail, you throw up at the sight of the liquid.
+Fame. It makes the user more famous.
+Fear. This makes the user terrified.
+Feast. It removes all hunger and thirst from the target.
+Fertility. It makes the user very fertile, almost certain to make a baby under its effects!
+Fey Nature. It lets the user become one with animals and nature around them.
+Flame Breath. It gives the user fire breath for a short time.
+Flame Resistance. It gives resistance to fire damage.
+Flatulence. You fart loudly every 1d4 minutes (as a free action). If you forget to fart you take 1d4 internal force damage.
+Flavour. It makes anything and everything taste amazing!
+Fleet foot. It makes the user have more speed.
+Fletcher's Fear. You gain a mild fear of arrows.
+Focus Mana. It restores all their spell slots, but can only use them to cast one spell until the next long rest.
+Frog Legs. For the next 2d6 minutes any slippery or sticky surface is treated as normal terrain for you, but any normal terrain is treated as 1d2: 1) Sticky 2) Slippery.
+Full Gut. Drinking this potions grants you the benefits of a full day of rations. You feel as though you’ve eaten breakfast, lunch, and dinner!
+Furnace. It makes the user radiate with a damaging aura.
+Gargoyle Toughness. It increases the user's constitution.
+Genie’s Revenge. You get a single wish spell, except what happens is the exact opposite of what you asked for.
+Ghostly Form. It makes the user intangible and able to phase through objects.
+Giant Strength. It gives the user much more strength.
+Glimmer. It makes the user and its gear instantly clean and as good looking as possible.
+Goats Trek. The user becomes immune to the toils of long travels and bad weather.
+Goblin Climb. It gives the user a bonus to climbing.
+God's Touch. Gives the user a holy connection to their god or fiendish deity.
+Godly form. This improves all stats.
+Gommi Forrest Syrup. Upon drinking, all bodily fluids glow a bright blue, causing them to emit a faint glow for 2d6 days. This glow becomes stronger when bleeding.
+Gracefulness. It makes the user have a better acrobatics skill.
+Growth. It makes the user double in size.
+Haiku. Character can only speak in haikus ("the sun sets promptly, this dungeon breathes a foul stench, goblins await us").
+Hairiness. You begin growing hair all over your body. After 1d4 days all your hair begins to fall out unless you drink more.
+Handsomeness/Beauty. The drinker becomes extremely physically attractive for 2d8 hours.
+Hathopod Blood. Upon drinking, gain immunity to all negative effects that would be obtained by a substance entering the body for 1d4 days.
+Hawks Flight. It lets the user fly.
+Healing. It instantly regenerates some health when drank.
+Health. It cures all diseases and illnesses.
+Healthiness. Drinking it gives a boost to your immunity system, curing you of diseases.
+Hero’s Flaw. The potion is highly addictive (roughly 1 in 4 experienced adventurers fall victim to it), but has no other effects. It can be identified as the Hero's Flaw by a pharmacist, experienced merchant or local dealer. Just an addictive drink created by an unknown vendor. These are very rare.
+Holtven Panacea. Upon drinking, all negative conditions are removed, health is restored to full, and any injuries are instantly healed.
+Hook Horror. The users hands become sharp weaponised blades.
+Horrifying appearance. It makes the user look more ugly for a time.
+Hovering. You can hover an inch above the ground. Base speed is now 40 feet for 1d4 hours.
+Instant Combustion. You are set on fire.
+Intermediate Levitation. You hover 4 inches above the ground for 1d6 hours.
+Intimidation. It gives the user a huge booming voice that terrifies those around.
+Invisibility. It makes the user invisible.
+Invulnerability. It freezes the user in stasis that makes them immune to damage but they cannot move or act.
+Iron Skin. It turns the user's skin to metal giving them many resistances.
+Knowledge. It increases the user's intelligence temporarily.
+Leaden Tongue. Drinking it renders you unable to smell or taste for 1d4 hours but during that duration, you are immune to ingested poisons.
+Lethargic Levitation. For the next hour, you gain a 10ft flying speed, but lose your walking speed.
+Lidocaine. You drool uncontrollably as you no longer have full control over your mouth or lips. They both feel numb. Over the course of 10 minutes you begin to lose all sense of feeling in all of your limbs. You gain control of your limbs one by one after 8 hours, but still feel numb elsewhere.
+Lightheadedness. The drinkers head becomes invisible. They become deaf and mute for 1d4 minutes, but can peek into the astral plane for the time being.
+Lightning Resistance. It gives resistance to lightning damage.
+Lizardmen. You transform into a lizardmen.
+Lotus Crystal Solution. Upon drinking, all ability score improvements are doubled for 1d6 hours. After the 5th time drinking this kind of potion, the drinker will have all stat bonuses halved when not under the effects.
+Loud Thoughts. Drinking it telegraphs the player's mood and thoughts to all characters within 30 ft for one hour, as if under the Detect Thoughts spell.
+Love. Classic love Potion.
+Love. It causes the user and someone else fall in love.
+Luck. It gives the user a temporary boost to luck.
+Luscious Lumberjack. You grow a beautiful beard down to your knees. The hair cannot be cut or removed unless through magical means.
+Magic Weakness. Next time you are targeted by a spell it's effect is doubled.
+Major Illusion. Similar to the Major Image spell, you can recreate something visible within a 20 ft cube. Just speak your choice into the bottle and shake the bottle to activate it. Once you open the container it will active after a few seconds.
+Mana. It gives the user more magical power to cast with.
+Midas. It makes the user turn things to gold.
+Might. It gives a bonus to attack rolls after drinking.
+Mintiness. When drank, you can exhale a frost breath in a 15 feet cone. Each creature in the area must make a DC13 Constitution save, or take 3d6 cold damage, and half on a success.
+Monstrosity. Grows a hideous feature that lasts 1d8 hours (like mandibles, claws, spikes, etc.).
+Moonshine. It’s just moonshine. Disadvantage on Dex checks for 2d8 hours.
+Musical Breath. It makes the user say everything in song, and fey music follows them in the air.
+Navigation. It makes the user unable to get lost and find where they need.
+Necro Resistance. It gives resistance to necrotic damage.
+Night vision. It gives the ability to see in the dark.
+Nightmares. It makes the user get lost in a hallucinatory dream world of their worst nightmares.
+Not Levitation. Instead of having the expected effect of levitation, the potion leaves you light-headed as it seeps into your brain. -1 on perception and intelligence checks but during that duration, you feel no pain and gain +1 to endurance and strength checks.
+Nymph Breath. It gives water breathing.
+of False Vigor. When drank, give 2d4+4 temporary life points.
+of Inner Fire. When drank, you feel really hot, and you feel your blood boiling. For the next 6 hours, you become resistant to fire damage, you when you are hit by an attack, every creature 5 feet around you must make a DC12 Dexterity save, or take 1d6 fire damage, and half on a success.
+One Leafed Clover. It gives the user terrible luck.
+Opioid Syrup. The bottle contains an addictive poison! You soon start wanting to take another drink. Each drink causes 1d6 damage.
+Oracle. It lets the user divinate the future.
+Owls Wake. The user need no sleep for a time.
+Peace. It makes the user very calm and unable to harm others.
+Photosynthesis. The drinker turns a deep green and can photosynthesize, but must consume dirt and/or fertilizer to do so.
+Plate Flesh. You feel your skin getting harder. You AC is increased by 3, but your movement speed is halved.
+Poison. Poisons the user, weakening them.
+Poorfoot. When drank, you feel it course through your body. When it gets to your feet, your shoes/boots melt off.
+Possession. It lets the user gain control of a nearby creature, their body comatosed while they do.
+Preservation. This stops whatever its poured on from rotting or degrading.
+Pure Mint Leaf. Minty fresh for a half hour afterwards, but your stomach turns. You get the feeling you weren’t supposed to swallow it.
+Pure Rage.  This potion gives you Rage just like a Barbarian.
+Race Change. It changes the user's race.
+Radiant Resistance. It gives resistance to radiant damage.
+Rebirth. It resurrects the user if they die soon after drinking.
+Recall. The drinker is teleported back to the location they found the potion. Any items they have gathered are still on them. However, any status effects, damage, or physical ailment that has afflicted them seems to have vanished, as if they have recalled to a previous version of themselves.
+Rejuvenation. It heals a single scar or bad injury on the user such as a missing arm.
+Remove Memory. You forget everything that has happened since the previous dawn.
+Repression. Whoever drinks this potion experiences a very vivid daydream from their childhood that leaves them shaken for 1d3 hours.
+Riddle me gone. It gives the user the cure to a single riddle.
+Ruby Breath. You immediately unleash the fire breath of a red dragon wyrmling directly in front of you.
+Saplings. A Potion that if poured on the ground will grow an acre of trees overnight. If drank..... Well that's unfortunate.
+Schaffensfreude. It makes the enemies take damage as they deal it to the user.
+Sentient Clothing. Any article of clothing you wear gains sentience while worn by you. The type of clothing determines its personality.
+Sentient Jelly. The fluid inside will actively try to avoid being drunk, clinging to the inside of the bottle. It's actually a Tiny Ochre Jelly.
+Serpent Tongue. It makes the user only able to lie.
+Sex Change. It changes the user's gender.
+Shielding. It gives the user a magical shield of energy.
+Shrinking. It makes the user half in size.
+Skeletons Demise. An unknown acid that passes through flesh and organs without harming them, nor does it stop on anything other than glass. In fact, it will pass through it all except glass and bone, which it dissolves rather painfully. It's bone hurting juice.
+Smog Skin. On consumption, your skin turns hazy as you gain water-breathing for 1d4 minutes but lose the ability to breathe above water.
+Sour Stomach. You projectile vomit profusely for 1d4 hours. Disadvantage on stealth checks because of all the sound and tracking checks against you have advantage. Can be weaponized, treat as Acid Splash, 4d6 acid damage.
+Speaker’s Savant. You can speak 3 additional languages, chosen by the DM, for 1d10 days.
+Spectre’s Form. This potion makes your body fall limp as you become a ghostly apparition for an hour.
+Sphinxes Truth. It makes the user tell the truth.
+Spider Limbs. Two extra arms sprout from your sides and function as normal for 10 minutes. You can use these arms to take a bonus action during combat. After 10 minutes the arms suddenly fall away, lifeless.
+Split Form. The user turns into two or three tiny versions of themselves and controls them all.
+Spoiled Healing. Gain 2d4+4 hit points and gain a randomly chosen side effect for 1d4 hours and effect. Either (1) poisoned, (2) blinded, (3) deafened, or  (4) nothing.
+Spring Joints. You can jump 10 times as high for 24 hours, also all fall damage you take is nullified. Your joints bent as if they were assembled from rubber and sap.
+Stamina. It gives the user more stamina and constitution.
+Stoneskin. It gives resistance to martial damage.
+Street Smarts. Your WIS increases by 1d6, and INT decreases by 1d4 for 2d12 hours.
+Succubus Charm. It makes the drinker irresistible to nearby people.
+Switch. It swaps your gender.
+Swordsmanship. It makes the user more effective and versatile with a blade.
+Tapioca. Filled with marble-sized tapioca balls. If you chew once on the tapioca balls, they turn into little snails or frogs in your mouth.
+The Bard. It increases the user's performance temporarily.
+The Hulk. Your skin turns green. Reduce your intelligence by 4 and increase your strength by 3d4 for 10 minutes.
+the Ox. Your STR is permanently increased by 1. If it's already 20, it goes down to 19.
+Thirst. The drinker is teleported to the nearest body of fresh water, with a niggling sense they should refill the bottle with it.
+Thriller. Next time you get hit by an undead creature or necrotic spell, you have to make a CR 18 CONS save. On a fail, your body starts to shiver, for no mere mortal can resist the evil of the thriller (You start to become a zombie. The transformation lasts 3d6 days, and can be dispelled by magic, before it's completed).
+Tracelessness. It makes the user very hard to follow.
+Tracking. It lets the user track an enemy.
+Transmutation. It lets the user have the ability to change somethings properties.
+True form. Turns the user into a familiar like creature similar to their personality.
+True Polymorph. Roll on the polymorph table.
+True Shight. You see that everyone has a slight outline around them, the color ranging from green to red, but you don't know the meaning. It's showing you how long since someone has taken a shit, green being recently and red being long ago.
+Utter Hatred. It makes the user have bonuses against a particular type of enemy.
+Utter Understanding. It makes the user know very intimately about one exact thing. Random, or they can decide.
+Viagra. An erection lasting more than 4 hours.
+Vigor. It gives temporary health when drank.
+Vitality. It slowly regenerates health over a period of some hours.
+Voldemort. The drinker’s nose is inverted, and sinks into their head.
+Water Elemental. As soon as you take a drink, you spawn a friendly water elemental in the same square as you.
+Wild magic. It taps into wild magic, making an absolutely random thing happen.
+Wisp Heart. It restores a lost organ or body part. The restored body part will be partially see-through and assume a foggy white color, however, and phantom pain will still be felt where applicable.
+Yoshi. You have the sudden urge to go the the privy. You have 10 minutes, after which time you are incapacitated for the next 24 hours, at the end of which you fall unconscious and successfully lay a fertilised egg. The egg takes 1 year to hatch as a dragon wyrmling imprints on you.
+Flight. You get flight movement equal to your walking movement. The maximum height you can reach is 100 ft.
+Youth. It makes the user grow some years younger.
